@@ -326,7 +326,7 @@ footer {
 }
 
 /* celular 576px */
-@media (max-width: 576px) {
+@media (max-width: 600px) {
 
     html,
     body {
