@@ -143,7 +143,7 @@ nav {
 }
 
 .pricing-container h2 {
-    font-size: 32px;
+    font-size: 36px;
 }
 
 .pricing-container p {
@@ -171,6 +171,8 @@ nav {
     list-style: none;
     height: 50px;
     line-height: 50px;
+    background-color: #e8e9ea;
+    color: #333;
 }
 
 .plan .price {
@@ -219,6 +221,7 @@ nav {
     color: #fff;
     font-size: 42px;
     margin-bottom: 15px;
+    text-shadow: #000 6px 4px 4px;
 }
 
 .searchdomain-container p {
